@@ -1,5 +1,4 @@
 package Java;
-
 import java.util.Scanner;
 public class prime_check {
 
